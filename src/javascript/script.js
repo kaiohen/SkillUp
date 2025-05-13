@@ -25,19 +25,19 @@ $(document).ready(function () {
 
 // abre arquivos pdfs
 $(document).ready(function() {
-    $('#btnPorque').on('click', function() {
+    $('.btnPorque').on('click', function() {
       window.open("src/arquivos/Causa Raiz - 5 porquês.pdf", "_blank");
     });
   
-    $('#btnCanva').on('click', function() {
+    $('.btnCanva').on('click', function() {
       window.open("src/arquivos/canvas-entendimento.pdf", "_blank");
     });
   
-    $('#btnUser').on('click', function() {
+    $('.btnUser').on('click', function() {
       window.open("src/arquivos/User Stories  Atualizado.pdf", "_blank");
     });
   
-    $('#btnMap').on('click', function() {
+    $('.btnMap').on('click', function() {
       window.open("src/arquivos/Plantilla Mapa de Empatía.pdf", "_blank");
     });
   });

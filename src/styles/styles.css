@@ -5,8 +5,7 @@
     box-sizing: border-box;
 }
 body {
-    transition: background-color 0.3s, color 0.3s;
-    scroll-behavior: smooth;
+  background-color: #F5EFE7;
 }
 /* .claro { */
   /* color: red;
@@ -90,7 +89,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #5a5a5a;
+    background-color: #D8C4B6;
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
@@ -100,7 +99,7 @@ section{
 }
 
 .btn-default:hover {
-    background-color: #82f877;
+    background-color: #c0ada0;
 }
 
 .social-media-buttons {
@@ -114,7 +113,7 @@ section{
     justify-content: center;
     width: 45px;
     height: 40px;
-    background-color: #837f7f;
+    background-color: #c0ada0;
     font-size: 1.25rem;
     border-radius: 10px;
     text-decoration: none;
