@@ -1,29 +1,76 @@
-# SkillUp
-# 💡 Ideia do Projeto: SkillUp
-
-* SkillUp é uma iniciativa digital voltada para o combate à evasão escolar por meio do desenvolvimento de habilidades e metodologias práticas de resolução de problemas. A ideia é criar uma plataforma simples, interativa e informativa, que ajuda estudantes e educadores a identificarem causas da evasão e encontrarem soluções reais e contextualizadas.
-
-``🎯 Objetivo``
-
-* Criar oportunidades no mercado de trabalho para jovens fazendo parcerias com grandes empresas tentando minimizar o grande aumento de uma evasão escolar.
-
-🔍 ``Como o projeto faz isso?``
-
-* O site apresenta um caminho estruturado com etapas metodológicas que guiam o usuário na análise e compreensão de um problema educacional (como a evasão), utilizando:
-
-``(5) Porquês: técnica para identificar a causa raiz de um problema.``
-
-* Canvas: ferramenta para planejar soluções com foco no público e nas necessidades.
-
-* Formulário de Pesquisa: coleta de dados reais para entender melhor o contexto.
-
-* User Stories: definição de funcionalidades desejadas em soluções digitais.
-
-* Mapa da Empatia: compreensão profunda das emoções, pensamentos e necessidades do público-alvo.
-
-🌍 ``Impacto Social``
-SkillUp visa diminuir a evasão escolar com meios de criar oportunidades a alunos sobre o mercado de trabalho, visando diminuir crimes, desigualdades sociais e incentivo a alunos a permanecerem estudando ja estando encaminhado no mercado de trabalho.
-
-# ``📱 Estrutura Simples e Acessível``
-
-A interface do site é direta, leve e responsiva, com botões e links que abrem PDFs explicativos e recursos externos, tornando o conteúdo fácil de navegar tanto no computador quanto no celular.
+# 📚 Projeto Contra Evasão Escolar — RISE(Rede de incentivo ao sucesso estudantil)
+ 
+# Licença
+>![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.3-white)
+ 
+>## 📄 Descrição do Projeto
+>Este projeto tem como objetivo combater a evasão escolar entre jovens que abandonam os estudos por necessidade financeira. A proposta é o desenvolvimento de uma plataforma digital que conecta estudantes, instituições de ensino e empresas, oferecendo vagas de emprego, estágio e jovem aprendiz, todas com horários flexíveis e compatíveis com a rotina escolar.
+ 
+>Nosso propósito é criar uma ponte entre educação e trabalho, mostrando que é possível transformar vidas por meio da geração de renda sem abrir mão dos estudos, fortalecendo o desenvolvimento pessoal, social e profissional dos jovens.
+ 
+# 🎯 Objetivo do Projeto
+>Reduzir a evasão escolar causada pela necessidade de trabalhar.
+ 
+>Oferecer oportunidades de desenvolvimento profissional sem abrir mão dos estudos.
+ 
+>Fortalecer a conexão entre escola, mercado de trabalho e comunidade.
+ 
+>Estimular o protagonismo juvenil e a transformação social.
+ 
+## 🚀 Funcionalidades Principais
+ 
+>🔗 Conexão direta entre empresas, instituições de ensino e estudantes.
+ 
+>💼 Vagas de trabalho, estágio e jovem aprendiz com horários flexíveis.
+ 
+>🏫 Painel para as escolas monitorarem frequência e desempenho dos alunos.
+ 
+>📚 Capacitações, trilhas de desenvolvimento e oficinas profissionalizantes.
+ 
+>🎯 Mentorias com profissionais do mercado.
+ 
+>📊 Dashboard de acompanhamento para empresas, escolas e estudantes.
+ 
+## Possíveis Desafios do Projeto
+>🔸 Engajamento das empresas: Convencer empresas a aderirem à proposta, oferecendo vagas com flexibilidade e responsabilidade social.
+ 
+>🔸 Acompanhamento eficaz: Desenvolver um sistema eficiente que integre dados da escola (frequência e desempenho) com a situação do estudante no trabalho.
+ 
+>🔸 Conciliação de horários: Garantir que as oportunidades ofertadas realmente não prejudiquem os horários de aula.
+ 
+>🔸 Captação de alunos: Criar estratégias para que os jovens conheçam e confiem na plataforma.
+ 
+>🔸 Sustentabilidade do projeto: Buscar formas de manter a operação da plataforma financeiramente sustentável, seja por parcerias, patrocínios ou modelos de monetização social.
+ 
+>🔸 Privacidade e proteção de dados: Assegurar que os dados dos estudantes sejam protegidos, atendendo às normas da LGPD (Lei Geral de Proteção de Dados).
+ 
+##  Diferenciais da Plataforma
+>💡 Foco específico na evasão escolar motivada pela necessidade de trabalho.
+ 
+>🤝 Integração real entre escola e mercado de trabalho.
+ 
+>🎯 Incentivos atrelados ao desempenho acadêmico.
+ 
+>🌎 Geração de impacto social direto na comunidade.
+ 
+# 🏗️ Melhorias Futuras
+🔧 Implementação de um app mobile (Android e iOS).
+ 
+🔍 Sistema de feedback entre estudantes, escolas e empresas.
+ 
+🎨 Melhoria na acessibilidade e na experiência do usuário (UX/UI).
+ 
+🌐 Expansão para outras regiões ou estados.
+ 
+🤖 Inclusão de inteligência artificial para recomendação de vagas e cursos.
+ 
+🔐 Sistema de segurança e criptografia de dados ainda mais robusto.
+ 
+🏆 Passar na capa da forbes
+ 
+# 👥 Contribuidores
+[Kaio Henrique](https://github.com/kaiohen) Desenvolvedor do projeto
+ 
+[Eduardo Costa](https://github.com/eduardocosta)
+ 
+[Vitor,Leonyn e Francisco]
