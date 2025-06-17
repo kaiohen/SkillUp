@@ -61,15 +61,15 @@
 }
  
 #banner img {
-    height: 550px;
+    height: 80%;
     width: fit-content;
     border-radius: 10%;
  }
  
 .shape{
     background-color: #ffe8b4;
-    width: 40%;
-    height: 550px;
+    width: 50%;
+    height: 500px;
     position: absolute;
     border-radius: 10% 10% 10% 10%;
     top: 0;
